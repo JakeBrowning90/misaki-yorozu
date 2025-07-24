@@ -1,11 +1,9 @@
 # Webpage for Misaki Yorozu
-
-## Overview
-
-## Technologies
-
-## Challenges/To-dos
-
-## How to use
+Made by Jake Browning, 2025. 
+https://github.com/JakeBrowning90
+https://jakebrowning90.github.io/personal-portfolio-3/
 
 ## Credits
+Template:
+Strata by HTML5 UP
+html5up.net | @ajlkn
